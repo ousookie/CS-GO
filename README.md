@@ -1,2 +1,2 @@
 # `CS:GO`
-> Glow exploit alpha-v
+> Glow exploit _alpha-v_
